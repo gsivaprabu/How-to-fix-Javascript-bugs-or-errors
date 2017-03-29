@@ -1,4 +1,4 @@
-## Statement Bugs - Course Introduction
+# Statement Bugs - Course Introduction
 
  - Basic javascript skill needed.
  - Some basic programming concepts
