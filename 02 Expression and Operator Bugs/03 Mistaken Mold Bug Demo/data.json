@@ -1,0 +1,12 @@
+{
+  "rack_id": "1",
+  "name": "ChassisRack",
+  "description": "Rack 1",
+  "manufacturer": "",
+  "uuid": "25892e17-80f6-415f-9c65-7395632f0223",
+  "api_version": "1.0",
+  "poddc_uid": "pod1.jf5.intel.com",
+  "podm_address": "podm1.pod1.jf5.intel.com",
+  "geo_tag": "Oregon-JF5",
+  "rack_dc_uid": "pod1.jf5.intel.com-1"
+}
